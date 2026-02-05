@@ -1,0 +1,11 @@
+order_id,date,product,category,quantity,unit_price
+1,2024-01-01,Laptop,Elektronik,1,25000
+2,2024-01-01,Mouse,Elektronik,2,500
+3,2024-01-02,Keyboard,Elektronik,1,1500
+4,2024-01-02,Office Chair,Mobilya,1,7000
+5,2024-01-03,Monitor,Elektronik,2,6000
+6,2024-01-03,Desk,Mobilya,1,9000
+7,2024-01-04,Headphones,Elektronik,3,1200
+8,2024-01-05,Laptop,Elektronik,1,25500
+9,2024-01-05,Mouse,Elektronik,1,550
+10,2024-01-06,Desk Lamp,Mobilya,2,850
